@@ -16,4 +16,4 @@ Linux için:
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
-[MIT]([https://opensource.org/license/mit/](https://github.com/hamzaxDD/kodluyoruzilkrepo/blob/main/LICENSE))
+[MIT](https://github.com/hamzaxDD/kodluyoruzilkrepo/blob/main/LICENSE)
